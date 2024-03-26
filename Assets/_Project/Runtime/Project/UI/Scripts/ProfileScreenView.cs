@@ -10,6 +10,6 @@ public class ProfileScreenView : MonoBehaviour
     public Button InventoryButton;
     public void OnClickInventoryButton()
     {
-        //InventoryButton.
+        //Inventory screen open
     }
 }
